@@ -9,7 +9,11 @@
 - **高性能**：基于 Cloudflare Workers 的边缘计算，提供低延迟的代理服务。
 - **易于部署**：一键部署到 Cloudflare Workers，无需额外服务器。
 
-## 环境变量
+## 🚀 部署方式
+
+- **Workers** 部署：复制 [_worker.js](https://github.com/getyufelix/proxy-cf-workers/blob/main/_worker.js) 代码，`保存并部署`即可
+
+## 🔧 环境变量
 
 以下是支持的环境变量及其默认值：
 
