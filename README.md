@@ -26,7 +26,7 @@
 ## 示例场景
 
 ### 场景 1：代理到 HTTPS 目标
-- 目标地址：`https://api.example.com`
+- 目标地址：`https://example.com`
 - 配置：
 
   ```toml
@@ -37,7 +37,7 @@
   ```
 
 ### 场景 2：代理到 HTTP 目标
-- 目标地址：`http://localhost:8080`
+- 目标地址：`http://api.example.com:8080`
 - 配置：
 
   ```toml
